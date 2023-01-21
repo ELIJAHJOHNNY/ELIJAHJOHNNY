@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: elijahjohnny/blog-post-workflow@master
         with:
           max_post_count: "4"
           feed_list: "https://medium.com/@johnnyelijahfemi/stutern-housemanship-documentation-on-setting-up-editorconfig-for-project-handout-by-kugbiyi-9327546b3c50"
