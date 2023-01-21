@@ -22,7 +22,7 @@
 </div>
 
 
-### 🧑‍💻: About Me :
+### 🧑‍💻 About Me :
 <div>
   I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who transitioned from Civil Engineering <img src="https://media.giphy.com/media/JQv4WNtg5j5GR3wHir/giphy.gif" width="30"> .
   </div>
