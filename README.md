@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <div>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    <img src="/digital-ocean.png" width="100"/>
-    <img src="/appwrite.png" width="100"/>
-    <img src="/docker.png" width="100"/>
+    <img src="/digital-ocean.PNG" width="100"/>
+    <img src="/appwrite.PNG" width="100"/>
+    <img src="/docker.PNG" width="100"/>
   </div>
   <div id="badges">
   <a href="https://www.linkedin.com/in/elijahkugbiyi/" target="blank">
@@ -27,14 +26,14 @@
 
 ### 🧑‍💻 About Me :
 <div>
-  I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who transitioned from Civil Engineering <img src="https://media.giphy.com/media/JQv4WNtg5j5GR3wHir/giphy.gif" width="30"> .
+  I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who transitioned from Civil Engineering <img src="https://media.giphy.com/media/JQv4WNtg5j5GR3wHir/giphy.gif" width="30">. I have built couple of web applications and participated in 2022 Hacktoberfest, hence earning a badge each from <a href="https://www.docker.com/">Docker</a>, <a href="https://www.appwrite.io/">Appwrite</a> and <a href="https://www.digitalocean.com/go/developer-brand?utm_campaign=emea_brand_kw_en_cpc&utm_adgroup=digitalocean_exact_exact&_keyword=digitalocean&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gclid=Cj0KCQiAt66eBhCnARIsAKf3ZNHoRhunBe-Xr1HMLfZS0n0EOeO4xWU75QcZT41ykopST5dreS9cDOwaAri5EALw_wcB">Digital Ocean</a>.
   </div>
 
-- ♂️  Pronouns: He/him...
-- :school: I completed my Frontend Development course from <a href="https://www.stutern.com">Stutern</a> 
+- ♂️  Pronouns: He/him ...
+- :school: I completed my Frontend Development course from <a href="https://www.stutern.com">Stutern</a> ...
 - 🔭 I’m working on building more scalable and intuitive web applications ...
 - 🌱 I’m currently on a scholarship program with ITExperience Google Career Certificate learning IT Automation with Python ...
-- 👯 I’m looking to collaborate on Open Source and personal projects...
+- 👯 I’m looking to collaborate on Open Source and personal projects ...
 - 🤔 I’m looking for an entry or intern level Frontend Web Developer roles ...
 - ⚡ Fun fact: I am a lover of music :musical_note:, art 🎨 and soccer ⚽ ...
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ELIJAH-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elijahkugbiyi/) 
