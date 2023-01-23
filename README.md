@@ -8,10 +8,13 @@
   <a href="https://www.linkedin.com/in/elijahkugbiyi/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+    <a href="https://kugbiyielijah.netlify.app" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://www.twitter.com/TzElijay">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    
 </div>
   <img src="https://komarev.com/ghpvc/?username=ELIJAHJOHNNY&style=flat-square&color=blue" alt=""/>
   <h1>
