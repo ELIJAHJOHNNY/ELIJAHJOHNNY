@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/elijahkugbiyi/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://kugbiyielijah.netlify.app" target="blank">
+    <a href="https://kugbiyi-elijah.netlify.app" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.twitter.com/TzElijay">
