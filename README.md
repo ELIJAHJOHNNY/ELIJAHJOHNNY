@@ -29,7 +29,7 @@
 
 ### 🧑‍💻 About Me :
 <div>
-  I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who transitioned from Civil Engineering <img src="https://media.giphy.com/media/JQv4WNtg5j5GR3wHir/giphy.gif" width="30">. I have built couple of web applications and participated in 2022 Hacktoberfest, hence earning a badge each from <a href="https://www.docker.com/">Docker</a>, <a href="https://www.appwrite.io/">Appwrite</a> and <a href="https://www.digitalocean.com/go/developer-brand?utm_campaign=emea_brand_kw_en_cpc&utm_adgroup=digitalocean_exact_exact&_keyword=digitalocean&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gclid=Cj0KCQiAt66eBhCnARIsAKf3ZNHoRhunBe-Xr1HMLfZS0n0EOeO4xWU75QcZT41ykopST5dreS9cDOwaAri5EALw_wcB">Digital Ocean</a>.
+  I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who transitioned from Civil Engineering <img src="https://media.giphy.com/media/JQv4WNtg5j5GR3wHir/giphy.gif" width="30">. I have over 3 years professional experience in Software development and maintenance, and presently work in a Microsoft partnering Organization. I participated in 2022 Hacktoberfest, hence earning a badge each from <a href="https://www.docker.com/">Docker</a>, <a href="https://www.appwrite.io/">Appwrite</a> and <a href="https://www.digitalocean.com/go/developer-brand?utm_campaign=emea_brand_kw_en_cpc&utm_adgroup=digitalocean_exact_exact&_keyword=digitalocean&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gclid=Cj0KCQiAt66eBhCnARIsAKf3ZNHoRhunBe-Xr1HMLfZS0n0EOeO4xWU75QcZT41ykopST5dreS9cDOwaAri5EALw_wcB">Digital Ocean</a>.
   </div>
 
 - ♂️  Pronouns: He/him ...
